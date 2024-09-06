@@ -1,0 +1,222 @@
+@media screen and (max-width: 1600px) {
+    .design_build .we-believe_section {
+        padding: 0 2%;
+    }
+    .design_build .we-believe_section p {
+        padding: 0px 0;
+    }
+    .the_bottom_line .acriform_section{
+        width: 60%;
+    }
+    .the_bottom_line a {
+        width: 41%;
+    }
+}
+@media screen and (max-width: 1280px) {
+    .home_banner p {
+        font-size: 15px;
+        padding: 0px 0;
+    }
+    .home_banner .banner_home_image img {
+        max-width: 60%;
+    }
+    .design_build .we-believe_section h2 {
+        font-size: 25px;
+        line-height: 30px;
+    }
+    .the_bottom_line p {
+        font-size: 15px;
+        padding: 0px 0;
+    }
+    .the_bottom_line .banner_home_image img {
+      max-width: 60%;
+    }
+    .the_bottom_line .acriform_section {
+        width: 100%;
+    }
+    .the_bottom_line a {
+        width: auto;
+    }
+    .parallel_effects {
+        height: 600px;
+    }
+    .parallel_effects-1{
+        height: 600px;
+    }
+    .parallel_effects-2{
+        height: 600px;
+    }
+    .parallel_effects-4 {
+        height: 600px;
+
+    }
+    .acriform_about .inner_details h1 {
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .promise_content h1{
+        font-size: 35px;
+        line-height: 50px;
+    }
+    .what_to_expect .consult_details p {
+        font-size: 18px;
+        font-weight: 300;
+        line-height: 27px;
+    }
+    .inner_blog_section .inner_blogs_content {
+        width: auto;
+        padding-top: 80px;
+    }
+    .news_card h5 {
+        font-size: 15px;
+    }
+    
+}
+@media screen and (max-width: 1024px) {
+    
+}
+@media screen and (max-width: 991px) {
+    .parallel_effects {
+        height: 400px;
+    }
+    .parallel_effects-1{
+        height: 400px;
+    }
+    .parallel_effects-2{
+        height: 400px;
+    }
+    .parallel_effects-4 {
+        height: 400px;
+
+    }
+    .parallel_effects .see_home_btn a {
+        padding: 10px 50px;
+        font-size: 18px;
+    }
+    .parallel_effects-1 .see_home_btn-1 a{
+        padding: 10px 50px;
+        font-size: 18px;
+    }
+    .parallel_effects-2 .see_home_btn-1 a{
+        padding: 10px 50px;
+        font-size: 18px;
+    }
+    .parallel_effects-4 .see_home_btn-1 a{
+        padding: 10px 50px;
+        font-size: 18px;
+    }
+    .the_bottom_line a {
+        font-size: 15px;
+        font-weight: 600;
+        width: auto;
+    }
+    .design_build .we-believe_section p {
+        text-align: justify;
+    }
+    .home_banner p {
+        text-align: justify;
+    }
+    .about_passion h3 {
+        font-size: 20px;
+        font-style: oblique;
+        line-height: 30px;
+    }
+    .margin_padding {
+        padding: 20px 0;
+        margin-top: 50px;
+    }
+    .acriform_about .inner_details h1 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .promise_content h1 {
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .what-to-expect_content h1{
+        font-size: 28px;
+        line-height: 40px;
+    }
+    .what-to-expect_content {
+        padding: 23px 0%;
+    }
+    .what_to_expect .consult_details h1 {
+        font-size: 28px;
+    }
+    .sevice_main_content h1{
+        font-size: 28px;
+    }
+    .seacrh_blogs .blog_content a {
+        font-size: 15px;
+    }
+    .inner_blog_section .inner_blogs_content h1 {
+        font-size: 25px;
+        line-height: 41px;
+    }
+}
+@media screen and (max-width: 520px) {
+    .acriform_about .inner_details h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .acriform_about .acriform_inner {
+        padding: 0 0%;
+    }
+    .about_section {
+        height: 250px;
+        margin-top: 68px;
+    }
+    .promise_content h1 {
+        font-size: 20px;
+        line-height: 40px;
+    }
+    .service_section {
+        height: 250px;
+        margin-top: 68px;
+    }
+    .sevice_main_content h1 {
+        font-size: 25px;
+    }
+    .inner_blog_section .inner_blogs_content h1 {
+        font-size: 20px;
+        line-height: 30px;
+    }
+    .contcat_page .btn {
+        width: 100%;
+        max-width: 100%;
+    }
+    .contact_section {
+        height: 250px;
+        margin-top: 68px;
+    }
+    .navbar .navbar-brand img{
+        width: 150px !important;
+    }
+    .navbar ul li {
+        background: #29383F;
+        padding: 0px 15px;
+        border-radius: 6px;
+        margin: 8px 0;
+    }
+    header .navbar .nav-item .nav-link {
+        font-size: 16px;
+        font-weight: 500;
+        color: #ffffff;
+    }
+    .navbar-collapse {
+        width: 100%;
+        padding: 10px;
+    }
+    .nav-item .nav-link::after {
+        position: absolute;
+        content: "";
+        bottom: 10%;
+        left: 0%;
+        transform: translate(-50%, -50%);
+        width: 0%;
+        height: 0.3px;
+        transition: 0.4s;
+        display: none;
+        background-color: var(--primary);
+    }
+}
